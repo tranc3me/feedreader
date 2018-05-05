@@ -3,7 +3,7 @@
 
 ## Direct link to the aplication
 
-* [feedreader]()
+* [feedreader](https://tranc3me.github.io/feedreader/)
 
 ## How to run
 
