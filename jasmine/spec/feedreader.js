@@ -111,7 +111,7 @@ $(function() {
              loadFeed(0,function(){
 
                      done();
-                
+
              })
          })
 
@@ -119,7 +119,7 @@ $(function() {
          it('loadFeed() completes and it has at least one element', function(){
             finish = $('.feed').html();
             expect(start).not.toBe(finish);
-
+            expect($('.feed').children().length).toBeGreaterThan(0);
          })
 
 

@@ -1,13 +1,8 @@
 # frontend-nanodegree-feedreader
 
-
-## Direct link to the aplication
-
-* [feedreader](https://tranc3me.github.io/feedreader/)
-
 ## How to run
 
-Open the aplication in your favourite web broswer
+Open the **index.html** in your favourite web broswer
 
 ## About
 
